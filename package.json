@@ -1,8 +1,8 @@
 {
   "name": "reactlima-001",
   "version": "0.1.0",
-  "home": "https://rmaceissoft.github.io/reactlima-001-helloword",
   "private": true,
+  "homepage": "https://rmaceissoft.github.io/reactlima-001-helloword",
   "dependencies": {
     "react": "^15.5.4",
     "react-dom": "^15.5.4"
